@@ -1,6 +1,4 @@
 ﻿# Lab of Industrial Vision and Intelligence, ZJU
-
-Contact: zaixinghe@zju.edu.cn, Hangzhou, China
 ---
 Our Research Interest
 
@@ -9,14 +7,15 @@ Our Research Interest
 > * 3D reconstruction
 > * Defect Detection
 
+Contact: zaixinghe@zju.edu.cn, Hangzhou, China
 
-本课题组的成果代码项目文件，请移步以下网址：
+You can refer to the following website for the project file of our research group:
 
 ### [Github-ZJU-IVI](https://github.com/ZJU-RTL)
 
 ------
 
-## 实验室成员
+## Group
 
 **Zaxing He** Associate Professor of Zhejiang University
 
