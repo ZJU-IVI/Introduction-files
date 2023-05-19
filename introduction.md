@@ -50,16 +50,19 @@ You can click on the literature below to jump to the paper:
 
 [(1) J. Jiang, Z. He, X. Zhao,*et.al*. REG-Net: Improving 6DoF Object Pose Estimation with 2D Keypoint Long-Short-Range-Aware Registration, IEEE Transactions on Industrial Informatics][1]
 
-[(2)Z. He, P. Li, X. Zhao,,*et.al*. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics][4]
+[(2) Z. He, P. Li, X. Zhao,,*et.al*. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics][4]
+
+[(3) Z. He, M. Wu, X. Zhao, S. Zhang, and J. Tan. A generative feature-to-image robotic vision framework for 6-D pose estimation of metal parts, IEEE-ASME Transactions on Mechatronics][5]
+
+[(4) Z. He, Z. Jiang, X. Zhao, S. Zhang and C. Wu. Sparse Template-Based 6-D Pose Estimation of Metal Parts Using a Monocular Camera, IEEE Transactions on Industrial Electronics][6]
 
 ### 3. Source files
-
-The code for reference [] can be found by clicking on the following link:
-[ZJU-RTL/SAMPLE][2]
 
 The dataset of Reflective Texture-Less Objects:
 [http://www.zju-rtl.cn/RT-Less/][3]
 
+The code for reference [] can be found by clicking on the following link:
+[ZJU-RTL/SAMPLE][2]
 
 ----------
 
@@ -81,3 +84,6 @@ The dataset of Reflective Texture-Less Objects:
   [2]: https://github.com/ZJU-RTL/Sample
   [3]: http://www.zju-rtl.cn/RT-Less/
   [4]: https://ieeexplore.ieee.org/document/9119846
+  [5]: https://ieeexplore.ieee.org/document/9550557
+  [6]: https://ieeexplore.ieee.org/document/8638797
+  
