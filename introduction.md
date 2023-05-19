@@ -5,7 +5,7 @@
 
 > * Machine Vision
 > * Pose Estimation
-> * 3D reconstruction
+> * 3D Measurement
 > * Defect Detection
 
 Contact: zaixinghe@zju.edu.cn, Hangzhou, China
@@ -16,7 +16,7 @@ You can refer to the following website for the project file of our research grou
 
 ------
 
-## Group
+## Group Numbers
 
 **Zaxing He** Associate Professor of Zhejiang University
 
@@ -44,13 +44,13 @@ You can refer to the following website for the project file of our research grou
 
         there need some introductions
 
-### 2. Publications
+### 2. Selected Publications
 
 You can click on the literature below to jump to the paper:
 
 [(1) J. Jiang, Z. He, X. Zhao,*et.al*. REG-Net: Improving 6DoF Object Pose Estimation with 2D Keypoint Long-Short-Range-Aware Registration, IEEE Transactions on Industrial Informatics][1]
 
-[(2) Z. He, P. Li, X. Zhao,,*et.al*. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics][4]
+[(2) Z. He, P. Li, X. Zhao,*et.al*. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics][4]
 
 [(3) Z. He, M. Wu, X. Zhao, S. Zhang, and J. Tan. A generative feature-to-image robotic vision framework for 6-D pose estimation of metal parts, IEEE-ASME Transactions on Mechatronics][5]
 
@@ -66,7 +66,7 @@ The code for reference [] can be found by clicking on the following link:
 
 ----------
 
-## 研究方向2-光滑无纹理反光零件的缺陷检测
+## Research 2: 3D Measurement
 
 ### 1. Introduction
 
@@ -74,6 +74,15 @@ The code for reference [] can be found by clicking on the following link:
         
 ### 2. Publications
 
+You can click on the literature below to jump to the paper:
+
+Z. He, P. Li, X. Zhao, S. Zhang, and J. Tan. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics
+
+Z. He, L. Kang, X. Zhao, S. Zhang, and J. Tan. Robust Laser Stripe Extraction for 3D Measurement of Complex Objects, Measurement Science and Technology
+
+Z. He, P. Li, X. Zhao, L. Kang, S. Zhang and J. Tan. Chessboard-Like High-Frequency Patterns for 3D Measurement of Reflective Surface, IEEE Transactions on Instrumentation and Measurement
+
+X Zhao, Q Lian, Z He, and S Zhang. Region-based online flaw detection of 3D printing via fringe projection. Measurement Science and Technology
 
 ### 3. Source files
 
