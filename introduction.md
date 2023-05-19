@@ -46,7 +46,7 @@ You can refer to the following website for the project file of our research grou
 
 ### 2. Selected Publications
 
-You can click on the literature below to jump to the paper:
+You can click on the literature below to view the paper:
 
 [(1) J. Jiang, Z. He, X. Zhao,*et.al*. **REG-Net: Improving 6DoF Object Pose Estimation with 2D Keypoint Long-Short-Range-Aware Registration**, IEEE Transactions on Industrial Informatics][1]
 
@@ -78,7 +78,7 @@ The code for reference [] can be found by clicking on the following link:
         
 ### 2. Publications
 
-You can click on the literature below to jump to the paper:
+You can click on the literature below to view the paper:
 
 [(1) Z. He, P. Li, X. Zhao, S. Zhang, and J. Tan. **Fast Projection Defocus Correction for Multiple Projection Surface Types**, IEEE Transactions on Industrial Informatics][7]
 
@@ -105,7 +105,7 @@ The code for reference [] can be found by clicking on the following link:
         
 ### 2. Publications
 
-You can click on the literature below to jump to the paper:
+You can click on the literature below to view the paper:
 
 [(1) F. Guo, Z. He, S. Zhang, X. Zhao, J. Fang, and J. **Tan. Normalized Edge Convolutional Networks for Skeleton-based Hand Gesture Recognition**. Pattern Recognition][12]
 
