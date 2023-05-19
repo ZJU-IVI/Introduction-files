@@ -18,7 +18,7 @@ You can refer to the following website for the project file of our research grou
 ## Group
 
 **Zaxing He** Associate Professor of Zhejiang University
-
+![image](https://github.com/ZJU-IVI/Introduction-files/blob/main/0424041239-1292680348.jpg)
         获浙江大学学士（06）、硕士（08），日本Hokkaido University（北海道大学）博士学位（12）。
         长期从事智能视觉检测技术与装备设计研究，研究方向主要涉及机器人视觉、光学三维测量、缺陷检测等技术及相关机器人、检测装备设计制造，在这些方面展开了系统、深入的研究，取得了一系列具有国际影响力的创新性研究成果。
         近年来以第一/通讯作者发表SCI论文43篇，其中TOP期刊论文27篇(63%)：中科院1区TOP期刊论文12篇(28%)——《IEEE Transactions on Industrial Informatics》(IF=11.648)、《IEEE Transactions on Industrial Electronics》(IF=8.162)、《Pattern Recognition》（IF=8.518），《IEEE-ASME Transactions on Mechatronics》（IF=5.867），中科院2区TOP期刊或浙江大学TOP期刊论文15篇(35%)——《IEEE Transactions on Instrumentation and Measurement》(IF=5.332)、《Neurocomputing》(IF=5.779)、《Measurement Science & Technology》(IF=2.398)等。获2019 IEEE 8th Global Conference on Consumer Electronics (GCCE) 国际会议最佳论文金奖（435 篇论文中选出唯一1篇）。主持国家自然科学基金、国家科技重大专项子课题、国家重点研发计划子课题等重要项目10多项，授权发明专利28项。
@@ -42,7 +42,9 @@ You can refer to the following website for the project file of our research grou
 ### 2. Publications
 
 You can click on the literature below to jump to the paper:
+
 [(1) J. Jiang, Z. He, X. Zhao,*et.al*. REG-Net: Improving 6DoF Object Pose Estimation with 2D Keypoint Long-Short-Range-Aware Registration, IEEE Transactions on Industrial Informatics][1]
+
 (2)
 
 ### 3. Source files
