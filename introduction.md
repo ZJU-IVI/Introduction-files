@@ -30,9 +30,9 @@ You can refer to the following website for the project file of our research grou
 
 ![image](https://github.com/ZJU-IVI/Introduction-files/blob/main/0802105621-174246132.jpg)
 
-        获浙浙江大学“求是青年学者”（第三批）。2008年毕业于浙江大学机械工程及能源学院，获工学硕士学位。
-        同年10月于日本北海道大学信息科学研究科攻读博士学位，2012年3月获得工学博士学位。
-        长期从事机器视觉、人工智能、图像处理相关研究、包括产品表面及内部缺陷检测、三维测量、目标检测与识别、位姿检测等方向，相关研究成果在国际上具有较大的影响力，2010年获Proceedings of GCOE-NGIT2010会议最佳论文奖，2012年获日本北海道大学大塚赏。近年来发表第一/通讯作者SCI 期刊论文43篇，研究成果多次在IEEE Transactions on Industrial Informatics（IF=11.648），IEEE Transactions on Industrial Electronics（IF=8.162）、Pattern Recognition（IF=8.518）、IEEE Transactions on Instrumentation and Measurement（IF=5.332）、IEEE-ASME Transactions on Mechatronics（IF=5.867）、Remote Sensing(IF=5.349)、Neurocomputing（IF=2.398）、Measurement Science and Technology（IF=11.648）等国际权威期刊上发表并得到有关专家的认可。主持多项重要科研项目，包括国家自然科学基金3项、浙江省自然科学基金2项等，授权中国发明专利28项，美国发明专利1项。
+        获浙浙江大学“求是青年学者”（第三批）。2008年毕业于浙江大学机械工程及能源学院，获工学硕士学位。同年10月于日本北海道大学信息科学研究科攻读博士学位，2012年3月获得工学博士学位。
+        长期从事机器视觉、人工智能、图像处理相关研究、包括产品表面及内部缺陷检测、三维测量、目标检测与识别、位姿检测等方向，相关研究成果在国际上具有较大的影响力.
+        2010年获Proceedings of GCOE-NGIT2010会议最佳论文奖，2012年获日本北海道大学大塚赏。近年来发表第一/通讯作者SCI 期刊论文43篇，研究成果多次在IEEE Transactions on Industrial Informatics（IF=11.648），IEEE Transactions on Industrial Electronics（IF=8.162）、Pattern Recognition（IF=8.518）、IEEE Transactions on Instrumentation and Measurement（IF=5.332）、IEEE-ASME Transactions on Mechatronics（IF=5.867）、Remote Sensing(IF=5.349)、Neurocomputing（IF=2.398）、Measurement Science and Technology（IF=11.648）等国际权威期刊上发表并得到有关专家的认可。主持多项重要科研项目，包括国家自然科学基金3项、浙江省自然科学基金2项等，授权中国发明专利28项，美国发明专利1项。
 
 
 ----------
@@ -76,11 +76,11 @@ The code for reference [] can be found by clicking on the following link:
 
 You can click on the literature below to jump to the paper:
 
-Z. He, P. Li, X. Zhao, S. Zhang, and J. Tan. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics
+[(1) Z. He, P. Li, X. Zhao, S. Zhang, and J. Tan. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics][7]
 
 Z. He, L. Kang, X. Zhao, S. Zhang, and J. Tan. Robust Laser Stripe Extraction for 3D Measurement of Complex Objects, Measurement Science and Technology
 
-Z. He, P. Li, X. Zhao, L. Kang, S. Zhang and J. Tan. Chessboard-Like High-Frequency Patterns for 3D Measurement of Reflective Surface, IEEE Transactions on Instrumentation and Measurement
+[(2) Z. He, P. Li, X. Zhao, L. Kang, S. Zhang and J. Tan. Chessboard-Like High-Frequency Patterns for 3D Measurement of Reflective Surface, IEEE Transactions on Instrumentation and Measurement][8]
 
 X Zhao, Q Lian, Z He, and S Zhang. Region-based online flaw detection of 3D printing via fringe projection. Measurement Science and Technology
 
@@ -95,4 +95,5 @@ X Zhao, Q Lian, Z He, and S Zhang. Region-based online flaw detection of 3D prin
   [4]: https://ieeexplore.ieee.org/document/9119846
   [5]: https://ieeexplore.ieee.org/document/9550557
   [6]: https://ieeexplore.ieee.org/document/8638797
-  
+  [7]: https://ieeexplore.ieee.org/document/9119846
+  [8]: https://ieeexplore.ieee.org/document/9410581
