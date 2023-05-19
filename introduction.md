@@ -33,7 +33,7 @@ You can refer to the following website for the project file of our research grou
 ----------
 
 
-## 研究方向1-光滑无纹理反光零件的6D位姿检测
+## Research 1: 6D Pose Estimation of Reflective Texture-Less Objects
 
 ### 1. Introduction
 
