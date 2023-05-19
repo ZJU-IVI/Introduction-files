@@ -6,7 +6,7 @@
 > * Machine Vision
 > * Pose Estimation
 > * 3D Measurement
-> * Defect Detection
+> * Detection and Recognition
 
 Contact: zaixinghe@zju.edu.cn, Hangzhou, China
 
@@ -56,6 +56,10 @@ You can click on the literature below to jump to the paper:
 
 [(4) Z. He, Z. Jiang, X. Zhao, S. Zhang and C. Wu. Sparse Template-Based 6-D Pose Estimation of Metal Parts Using a Monocular Camera, IEEE Transactions on Industrial Electronics][6]
 
+(5) C. Wu, L. Chen, Z. He and J. Jiang. Pseudo-Siamese Graph Matching Network for Textureless Objects’ 6-D Pose Estimation, IEEE Transactions on Industrial Electronics 
+
+(6) Z. He, W. Feng, X. Zhao, S. Zhang, and J. Tan. 6D pose measurement of metal parts based on virtual geometric feature point matching, Measurement Science and Technology 
+
 ### 3. Source files
 
 The dataset of Reflective Texture-Less Objects:
@@ -78,15 +82,47 @@ You can click on the literature below to jump to the paper:
 
 [(1) Z. He, P. Li, X. Zhao, S. Zhang, and J. Tan. Fast Projection Defocus Correction for Multiple Projection Surface Types, IEEE Transactions on Industrial Informatics][7]
 
-Z. He, L. Kang, X. Zhao, S. Zhang, and J. Tan. Robust Laser Stripe Extraction for 3D Measurement of Complex Objects, Measurement Science and Technology
+(2) Z. He, L. Kang, X. Zhao, S. Zhang, and J. Tan. Robust Laser Stripe Extraction for 3D Measurement of Complex Objects, Measurement Science and Technology
 
-[(2) Z. He, P. Li, X. Zhao, L. Kang, S. Zhang and J. Tan. Chessboard-Like High-Frequency Patterns for 3D Measurement of Reflective Surface, IEEE Transactions on Instrumentation and Measurement][8]
+[(3) Z. He, P. Li, X. Zhao, L. Kang, S. Zhang and J. Tan. Chessboard-Like High-Frequency Patterns for 3D Measurement of Reflective Surface, IEEE Transactions on Instrumentation and Measurement][8]
 
-X Zhao, Q Lian, Z He, and S Zhang. Region-based online flaw detection of 3D printing via fringe projection. Measurement Science and Technology
+(4) X Zhao, Q Lian, Z He, and S Zhang. Region-based online flaw detection of 3D printing via fringe projection. Measurement Science and Technology
+
+(5) Z. He, P. Li, X. Zhao, S. Zhang, and J. Tan. Beyond phase error compensation: pixel mapping-based error correction for high-accuracy 3D surface measurement, Measurement Science and Technology
 
 ### 3. Source files
 
+The code for reference [] can be found by clicking on the following link:
+[ZJU-RTL/SAMPLE][2]
 
+----------
+
+## Research 3: Detection and Recognition
+
+### 1. Introduction
+
+        there need some introductions
+        
+### 2. Publications
+
+You can click on the literature below to jump to the paper:
+
+(1) F. Guo, Z. He, S. Zhang, X. Zhao, J. Fang, and J. Tan. Normalized Edge Convolutional Networks for Skeleton-based Hand Gesture Recognition. Pattern Recognition
+
+(2) J. Jiang, Z. He, S. Zhang, X. Zhao, and J. Tan. Learning to transfer focus of graph neural network for scene graph parsing, Pattern Recognition
+
+(3) Z. He, H. Wang, X. Zhao, S. Zhang, and J. Tan. Inward-region-growing-based accurate partitioning of closely stacked objects for bin-picking, Measurement Science and Technology
+
+### 3. Source files
+
+----------
+
+## Other works
+
+(1) Z. He, M. Wu, X. Zhao, S. Zhang, and J. Tan. Representative null space LDA for discriminative dimensionality reduction. Pattern Recognition
+ 
+(2) Z. He, C. Wu, S. Zhang and X. Zhao. Moment-Based 2.5-D Visual Servoing for Textureless Planar Part Grasping, IEEE Transactions on Industrial Electronics 
+ 
 ---
 
   [1]: https://ieeexplore.ieee.org/document/9754249
