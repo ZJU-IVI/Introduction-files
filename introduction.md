@@ -37,20 +37,20 @@ You can refer to the following website for the project file of our research grou
 
 ### 1. Introduction
 
-$$E=mc^2$$
+        there need some introductions
 
 ### 2. Publications
 
-点击下方文献可直接跳转至论文：
+You can click on the literature below to jump to the paper:
 [(1) J. Jiang, Z. He, X. Zhao,*et.al*. REG-Net: Improving 6DoF Object Pose Estimation with 2D Keypoint Long-Short-Range-Aware Registration, IEEE Transactions on Industrial Informatics][1]
 (2)
 
 ### 3. Source files
 
-有关文献【2】的代码文件可点击下面的链接：
+The code for reference [] can be found by clicking on the following link:
 [ZJU-RTL/SAMPLE][2]
 
-The dataset of 无纹理反光零件：
+The dataset of Reflective Texture-Less Objects:
 [http://www.zju-rtl.cn/RT-Less/][3]
 
 
